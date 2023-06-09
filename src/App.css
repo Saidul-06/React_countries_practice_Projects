@@ -35,4 +35,7 @@
   to {
     transform: rotate(360deg);
   }
+}.Country{
+  border: 2px soli salmon;
+  background-color: #61dafb;
 }
